@@ -1,6 +1,6 @@
 # Medium Clone using Sanity, Next.js, TypeScript, and Tailwind CSS
 
-Project is deployed [Here]()
+Project is deployed [Here](https://medium-sanity-clone-arn1rp12i-kuldeepyeware.vercel.app/)
 
 This is a Medium clone web application which is created by following Youtube Video [Tutorial](https://youtu.be/6fNy0iD3hsk) built with the following technologies:
 
