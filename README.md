@@ -1,27 +1,20 @@
-# Next.js + Tailwind CSS Example
+# Medium Clone using Sanity, Next.js, TypeScript, and Tailwind CSS
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Project is deployed [Here]()
 
-## Deploy your own
+This is a Medium clone web application which is created by following Youtube Video [Tutorial](https://youtu.be/6fNy0iD3hsk) built with the following technologies:
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- [Sanity](https://www.sanity.io/) - Headless CMS for managing content
+- [Next.js](https://nextjs.org/) - React framework for building server-side rendered (SSR) web applications
+- [TypeScript](https://www.typescriptlang.org/) - Superset of JavaScript for adding static types
+- [Tailwind CSS](https://www.typescriptlang.org/) - Utility-first CSS framework for building custom designs quickly
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+The purpose of this project was to learn about Next.js, TypeScript.
 
-## How to use
+Project taught me about:
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+- How to create Next.js web apps
+- How to use Typescript(.tsx) in Next.js
+- What is Sanity and use of Sanity
+- How to use Tailwind CSS
+- Gained confidence to build more projects
